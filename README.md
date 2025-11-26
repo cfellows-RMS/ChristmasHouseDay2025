@@ -285,7 +285,7 @@
             <div class="chart-container">
                 <canvas id="activityMixChart"></canvas>
             </div>
-        </section>
+       
 
         <section class="mb-16">
             <div class="bg-white rounded-2xl shadow-xl overflow-hidden border-t-8 border-orange-400 relative">
@@ -562,7 +562,7 @@
             </div>
         </section>
 
-    </main>
+
 
     <footer class="bg-gray-900 text-white py-12 text-center mt-8 border-t-8 border-red-600 relative overflow-hidden px-4">
         <div class="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+CjxnIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMC4xIj4KPGNpcmNsZSBjeD0iMyIgY3k9IjMiIHI9IjEiLz4KPGNpcmNsZSBjeD0iMTMiIGN5PSIxMyIgcj0iMSIvPgo8L2c+Cjwvc3ZnPg==')] opacity-50"></div>
