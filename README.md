@@ -285,6 +285,11 @@
             <div class="chart-container">
                 <canvas id="activityMixChart"></canvas>
             </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
        
 
         <section class="mb-16">
