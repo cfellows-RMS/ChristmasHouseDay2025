@@ -287,7 +287,7 @@
             </div>
 <div class="flex items-center justify-center bg-white py-6">
                     </div>
-
+</div>
                 	    
         </section>
        
