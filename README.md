@@ -171,10 +171,10 @@
         </div>
 
 </div> <div class="mt-10 relative z-10 text-center pb-12">
-        <a href="https://forms.gle/BbWYuXKaQ9fud9F26" target="_blank" class="cta-button text-green-700 hover:text-green-800">
+        <a href="https://forms.gle/BbWYuXKaQ9fud9F26" target="_blank" class="cta-button text-white hover:text-green-500">
             🎅 SECURE YOUR SPOT NOW! 🎅
         </a>
-                <p class="text-sm mt-3 font-bold text-white">Places are limited - first come, first served!</p>
+                <p class="text-sm mt-3 font-bold text-white">Places are limited!</p>
             </div>
     </header>
 
@@ -285,15 +285,15 @@
             <div class="chart-container">
                 <canvas id="activityMixChart"></canvas>
             </div>
+<div class="flex items-center justify-center bg-white py-6">
                     </div>
 
-                
+                	    
         </section>
        
 
         <section class="mb-16">
             <div class="bg-white rounded-2xl shadow-xl overflow-hidden border-t-8 border-orange-400 relative">
-                <span class="absolute top-0 left-0 text-6xl opacity-5 p-4 transform -rotate-12">🦌</span>
                 <div class="flex items-center justify-center bg-orange-100 py-6">
                     <span class="text-5xl mr-4 animate-pulse">🦌</span>
                     <h2 class="text-4xl md:text-5xl font-black text-center header-orange festive-font drop-shadow-sm">Juniors (Y7 & 8): Pick Your Challenges!</h2>
@@ -316,7 +316,7 @@
                     <div class="activity-card group">
                         <div class="activity-card-image-container">
                             <img src="https://placehold.co/600x400/15803d/ffffff?text=Eco-Wreath+Making&font=roboto" alt="Wreath">
-                            <span class="activity-icon-overlay group-hover:rotate-12 transition">�♻️</span>
+                            <span class="activity-icon-overlay group-hover:rotate-12 transition"> ♻️</span>
                         </div>
                         <div class="activity-card-content">
                             <h3>B: Eco-Wreath Making</h3>
@@ -385,7 +385,6 @@
 
         <section class="mb-16">
             <div class="bg-white rounded-2xl shadow-xl overflow-hidden border-t-8 border-purple-400 relative">
-                <span class="absolute top-0 right-0 text-6xl opacity-5 p-4 transform rotate-12">⛄</span>
                 <div class="flex items-center justify-center bg-purple-100 py-6 relative overflow-hidden">
                     <span class="text-5xl mr-4 animate-bounce">⛄</span>
                     <h2 class="text-4xl md:text-5xl font-black text-center header-purple festive-font drop-shadow-sm">Intermediates (Y9 & 10): Step Up! Claim Your Zone!</h2>
@@ -476,8 +475,7 @@
 
         <section class="mb-16">
             <div class="bg-white rounded-2xl shadow-xl overflow-hidden border-t-8 border-green-500 relative">
-                <span class="absolute top-0 left-0 text-6xl opacity-5 p-4 transform -rotate-6">❄️</span>
-                <div class="flex items-center justify-center bg-green-100 py-6 relative overflow-hidden">
+                    <div class="flex items-center justify-center bg-green-100 py-6 relative overflow-hidden">
                     <span class="text-5xl mr-4 animate-spin-slow">❄️</span>
                     <h2 class="text-4xl md:text-5xl font-black text-center header-green festive-font drop-shadow-sm">Seniors (Y11-13): The Final Showdown! Choose Wisely!</h2>
                     <span class="text-5xl ml-4 animate-spin-slow">❄️</span>
@@ -661,4 +659,3 @@
             });
         };
     </script>
-
